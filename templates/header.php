@@ -16,6 +16,9 @@
                 font-size: 18px;
                 background: url(theme/footer-bg.jpg?1501255425) repeat ;
             }
+            .navbar-brand{
+                font-size: 1.95rem;
+            }
             .navigation {
                 font-family: "Abril Fatface" !important;
                 font-size: 14px;
@@ -66,6 +69,7 @@
                 text-decoration: none;
                 color: rgba(255, 255, 255, .80);
             }
+            
         </style>
     </head>
     <body>

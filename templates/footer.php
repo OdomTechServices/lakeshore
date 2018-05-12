@@ -35,15 +35,20 @@
                 <h3 class="" style="color:white">Contact Us</h3>
                   <a style="color:white" href="mailto:mail@lakeshoreonpk.com">mail@lakeshoreonpk.com</a><br>
                   <p style="color:white">
-                      <a href="https://goo.gl/maps/8odsL92h8ws"><i class="fas fa-map-signs fa-2x"></i>
                       5501 Lakeshore Drive<br>
                       Graham, TX 76450<br>
-                      </a>
                       USA
 
                   </p>
+                  <div class="row">
+                      <div class="col-6">
+                            <button class="btn btn-success " type="button" name="button"><i class="fas fa-mobile-alt "></i> (940)549-2518</button>
+                      </div>
+                      <div class="col-6">
+                          <button onclick="location.href = 'https://goo.gl/maps/8odsL92h8ws';" class="btn btn-success" type="button" name="button"><i class="fas fa-map-signs "></i> Directions</button>
+                      </div>
+                  </div>
 
-                  <button class="btn btn-success btn-block" type="button" name="button"><i class="fas fa-mobile-alt "></i> (940)549-2518</button>
 
             </div>
         </div>
